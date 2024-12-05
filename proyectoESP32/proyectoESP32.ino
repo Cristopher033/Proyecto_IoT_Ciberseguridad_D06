@@ -2,8 +2,8 @@
 #include <WebServer.h>
 
 // Configuración de red WiFi
-const char* ssid = "Totalplay-4A44";
-const char* password = "Fre46a91DSMN";
+const char* ssid = "nombre-wifi";
+const char* password = "clave-wifi";
 
 WebServer server(80);
 
